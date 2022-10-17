@@ -1,0 +1,61 @@
+    1  ls
+    2  cd Desktop/
+    3  ls
+    4  mkdir Proyecto1
+    5  ls Proyecto1/
+    6  cd Proyecto1/
+    7  git add
+    8  git init
+    9  echo "hola" > archivo.txt
+   10  ls
+   11  git status
+   12  git add archivo.txt 
+   13  git status 
+   14  git commit -m "Hola"
+   15  git config --global user.email "alaingonzalezambris@gmail.com"
+   16  git config --global user.name "AlainGonzalezA"
+   17  git commit -m "Hola"
+   18  git status 
+   19  cat archivo.txt 
+   20  git log --mostrar el historial del repositorio.
+   21  code .
+   22  git add archivo.txt 
+   23  git commit 
+   24  cd Desktop/Proyecto1/
+   25  ls
+   26  git status
+   27  git commit -m "Cambio 2"
+   28  git log  --mostrar el historial del repositorio
+   29  history
+   30  git commit
+   31  git commit
+   32  git commit
+   33  git log
+   34  git log --oneline
+   35  git status
+   36  git add otro.txt
+   37  git status
+   38  git commit
+   39  history > comandos.txt
+yolo la vida
+   40 git status -s
+   41 git log --oneline --graph --all
+   42 git merge
+   43 git checkout -b
+   44 git branch
+   45 echo "" >> .txt
+   46 rm -rf
+   47 touch
+   
+
+
+
+
+
+
+
+
+
+
+
+roadmap.sh
